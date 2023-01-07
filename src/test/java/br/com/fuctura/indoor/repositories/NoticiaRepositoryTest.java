@@ -20,7 +20,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import br.com.fuctura.indoor.aux.GenerateData;
+import br.com.fuctura.indoor.auxi.GenerateData;
 import br.com.fuctura.indoor.entities.Noticia;
 import br.com.fuctura.indoor.entities.Situacao;
 

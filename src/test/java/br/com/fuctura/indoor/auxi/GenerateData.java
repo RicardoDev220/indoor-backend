@@ -1,4 +1,4 @@
-package br.com.fuctura.indoor.aux;
+package br.com.fuctura.indoor.auxi;
 
 import java.time.LocalDateTime;
 import java.util.List;
